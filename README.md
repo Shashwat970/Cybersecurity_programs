@@ -35,7 +35,6 @@ This is an interactive web application that allows users to **encode** secret me
 1. **Clone the Repository**  
 ```bash
 git clone https://github.com/Shashwat970/Cybersecurity_programs.git
-cd image-steganography-app
 ```
 
 2. **Install Dependencies**  
@@ -45,7 +44,7 @@ pip install streamlit opencv-python-headless numpy
 
 3. **Run the Application**  
 ```bash
-streamlit run steganography_app.py
+streamlit run stegano.py
 ```
 
 ---
