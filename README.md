@@ -34,7 +34,7 @@ This is an interactive web application that allows users to **encode** secret me
 ## 📥 **Installation**  
 1. **Clone the Repository**  
 ```bash
-git clone 
+git clone https://github.com/Shashwat970/Cybersecurity_programs.git
 cd image-steganography-app
 ```
 
